@@ -5,7 +5,7 @@
 // 6, "I"     -> "IIIIII"
 // 5, "Hello" -> "HelloHelloHelloHelloHello"
 
-// MY SOLUTUIN  :
+// MY SOLUTUION  :
 
 function repeatStr(numberOfRepeats, str) {
   let string = "";
